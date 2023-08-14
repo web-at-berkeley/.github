@@ -1,4 +1,4 @@
-## Web Development at Berkeley
+# Web Development at Berkeley
 
 UC Berkeley’s community for Web Design and Development.
 
